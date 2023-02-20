@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @YusufAmeur
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+BSc Biochemistry graduate with experience in data science eager to leverage excellent statistical & math, time
+management and presentation skills to become a top data analyst.
 
-<!---
-YusufAmeur/YusufAmeur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skilled at presenting and explaining complex trends and technical data to non-technical audiences, managing
+high-volume workloads and building visualisations and machine learning models, ensuring the smooth daily
+running of data analytics operations.
