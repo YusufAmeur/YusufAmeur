@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Yusuf Ameur  
 
-🚀 **Data Scientist @ Aviva** | 🧠 *Machine Learning • Data Pipelines • Insurance Analytics*  
+🚀 **Data Eningeer @ Aviva** | 🧠 *Machine Learning • Data Pipelines • Insurance Analytics*  
 
-I’m a Data Scientist with experience designing and operationalising scalable **data pipelines, predictive models, and interactive dashboards** that improve decision-making in the **insurance and financial sectors**.  
+I’m a Data Engineer and aspiring Data Scientist with experience designing and operationalising scalable **data pipelines, predictive models, and interactive dashboards** that improve decision-making in the **insurance and financial sectors**.  
 
 I’m passionate about applying **machine learning, NLP, and cloud technologies** to solve real-world problems and transform business processes.  
 
