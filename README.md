@@ -18,35 +18,9 @@ I’m passionate about applying **machine learning, NLP, and cloud technologies*
 
 ## 📂 Featured Projects
 
-### 📊 Insurance Risk Modelling
-Predictive modelling on open insurance datasets with feature engineering, model explainability, and business-driven KPIs.  
+### 📊 CryptoPunk Price Predictor: NFT Valuation Using Machine Learning
+A machine learning tool that predicts the ETH value of CryptoPunks based on traits, rarity, and purchase history.
 ➡️ [View Repository](#)  
-
-### 📝 NLP for Insurance Documents
-Applied NLP (spaCy, Hugging Face) to classify claims and extract insights from unstructured documents.  
-➡️ [View Repository](#)  
-
-### ⚡ PySpark Data Pipeline
-Scalable ETL pipeline for large datasets, deployed on AWS with logging and automated testing.  
-➡️ [View Repository](#)  
-
-### 📈 Interactive Dashboard (Streamlit)
-Real-time actuarial insights dashboard with dynamic KPIs and risk analysis.  
-➡️ [View Repository](#)  
-
-### 🔗 Crypto Scholarship Analytics
-Blockchain-based project analysing portfolio growth and community engagement metrics.  
-➡️ [View Repository](#)  
-
----
-
-## 🏆 Highlights
-- Reduced manual actuarial checks by **30%** through automated validation pipelines  
-- Migrated manual reports to **real-time dashboards**, enabling faster decision-making  
-- Built **machine learning models** improving claims forecasting accuracy by **15%**  
-- Founded a blockchain-based scholarship platform with **350+ participants**  
-
----
 
 ## 🌍 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/YusufAmeur)  
