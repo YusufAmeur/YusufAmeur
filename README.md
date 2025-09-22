@@ -20,7 +20,7 @@ I’m passionate about applying **machine learning, NLP, and cloud technologies*
 
 ### 📊 CryptoPunk Price Predictor: NFT Valuation Using Machine Learning
 A machine learning tool that predicts the ETH value of CryptoPunks based on traits, rarity, and purchase history.
-➡️ [View Repository](#)  
+➡️ [View Repository](https://github.com/YusufAmeur/CryptoPunk-NFT-Price-Analysis-Tool)
 
 ## 🌍 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/YusufAmeur)  
